@@ -1,1 +1,2 @@
 # real-time-object-detection
+ DETECTING OBJECT IN REAL TIME FROM A VIDEO USING SSD TECHNIQUE.
